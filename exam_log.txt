@@ -1,0 +1,412 @@
+    1  pkg install cmatrix
+    2  cmatrix
+    3  pkg update
+    4  pkg upgrade
+    5  pkg install proot-distro
+    6  proot-distro install Ubunu
+    7  proot-distro install Ubuntu
+    8  pkg install proot-distro
+    9  proot-distro install Ubuntu
+   10  apt update && apt upgrade
+   11  proot-distro install Ubuntu
+   12  proot-distro install ubuntu
+   13  proot-distro login ubuntu
+   14  proot-distro
+   15  proot ubuntu
+   16  history
+   17  proot
+   18  historg
+   19  history
+   20  proot-distro login ubuntu
+   21  sl
+   22  pkg install sl
+   23  sl
+   24  pkg install sl
+   25  sl
+   26  pkg install fortune
+   27  fortune
+   28  apt update && apt upgrade
+   29  package list
+   30  ifconfig
+   31  ipconfig
+   32  proot-distro login ubuntu
+   33  pkg upgrade
+   34  pkg install openssh
+   35  sshd
+   36  nano $PREFIX/etc/ssh/sshd_config
+   37  pkill sshd
+   38  sshd
+   39  whoami
+   40  ip addr show vlan0
+   41  ip addr show vlan1
+   42  ip addr show wlan0
+   43  ip
+   44  pkg install net-tools
+   45  if config
+   46  ifconfig
+   47  pkg update && pkg upgrade
+   48  ifconfig
+   49  pkg install net-tools
+   50  ip addr show wlan0
+   51  whoami
+   52  ssh u0_a222
+   53  ifconfig
+   54  pkg install net-tools
+   55  ifconfig
+   56  ip addr
+   57  termux-info
+   58  pkg install termux-tools
+   59  termux-info
+   60  ip a
+   61  netstat -rn
+   62  ping 8.8.8.8
+   63  history
+   64  passwd
+   65  ssh-keygen -t rsa -b 2048 -f ~/.ssh/id_rsa
+   66  ip pkg i iproute2
+   67  ifcnfig -a
+   68  ifconfig -a
+   69  ip
+   70  apt show iproute2
+   71  pkg install iproute2
+   72  apt show iproute2
+   73  ssh user@u0_a222
+   74  ssh -p  8022 user@u0_a222
+   75  ssh -p  8022 u0_a222
+   76  ssh -i id_rsa user@u0_a222
+   77  nao
+   78  nano
+   79  nano $PREFIX/etc/ssh/sshd_config
+   80  sl
+   81  cmatrix
+   82  ip addr
+   83  proot-disto login ubuntu
+   84  proot-distro login ubuntu
+   85  io
+   86  ip
+   87  iproute2
+   88  package iproute2
+   89  pkg install openjdk
+   90  ip
+   91  ifconfig
+   92  history
+   93  pkill sshd && sshd
+   94  whoami
+   95  apache2
+   96  pkg install 
+   97  clome https://github/sofiamarieisidro/smisidro.git
+   98  clone https://github/sofiamarieisidro/smisidro.git
+   99  proot-distro login ubuntu
+  100  pkg install gh7
+  101  proot-distro login ubuntu
+  102  pkg install git
+  103  proot-distro login ubuntu
+  104  ssh u0_a222@127.0.0.1
+  105  ifconfig
+  106  sudo apt install net-tools
+  107  pkg apt install net-tools
+  108  pkg install net-tools
+  109  ifconfig
+  110  pkg install gh
+  111  ipconfig
+  112  termux-info
+  113  pkg install net-tools
+  114  ifconfig
+  115  sudo ifconfig
+  116  ipconfig
+  117  pkg n4
+  118  pkg install net-tools
+  119  pkg install gh
+  120  pkg update
+  121  pkg install gh
+  122  gh auth login
+  123  pkg install git
+  124  git clone https://github.com/smisidro/230015331-ISIDRO
+  125  run javac
+  126  ls
+  127  cd 230015331-isidro
+  128  cd 230015331-ISIDRO
+  129  LS
+  130  ls
+  131  cd demofiles
+  132  cd Demofiles
+  133  ls
+  134  exit
+  135  pkg install default
+  136  proot-distro login ubuntu
+  137  cd 230015331-ISIDRO
+  138  apt install default-jf
+  139  apt install default-jdk
+  140  apt install default jdk
+  141  pkg install openjdk
+  142  ls
+  143  cd Demofiles
+  144  ls
+  145  javac Calculator.jfk
+  146  javac Calculator.jdk
+  147  pkg install python3
+  148  javac Calculator.jdk
+  149  cd..
+  150  javac Calculator.jdk
+  151  javac Calculator.java
+  152  nano calculator.java
+  153  nano calculator.jdk
+  154  nano Calculator.jdl
+  155  nano Calculator.jdk
+  156  history
+  157  javac Calculator.jdk
+  158  java Calculator666.jdk
+  159  java Calculator.java
+  160  javac Calculator.java
+  161  javac calculator.java
+  162  nano calculator.java
+  163  javac calculator.java
+  164  nano calculator.java
+  165  javac calculator.java
+  166  nano calculator.java
+  167  javac calculator.java
+  168  java calculator.java
+  169  ls
+  170  git statuz
+  171  git status
+  172  ls
+  173  mv Calculator.jdk calculator.java
+  174  ls
+  175  nano calculator.java
+  176  javac calculator.java
+  177  nano calculator.java
+  178  javac calculator.java
+  179  java calculator.java
+  180  history
+  181  javac calculator.java
+  182  java calculator.java
+  183  git status
+  184  ls
+  185  java calculator.java⁵
+  186  java calculator.56java
+  187  javac calculator.java
+  188  java calculator.java
+  189  java calculator
+  190  history
+  191  cat calculator
+  192  cat calculator.java
+  193  javac calculator.java
+  194  java calculator.java
+  195  java calculator
+  196  cat calculator.java
+  197  git status
+  198  history
+  199  xit
+  200  exit
+  201  history
+  202  cd 230015331-ISIDRO
+  203  LS
+  204  ls
+  205  cd sof
+  206  ls
+  207  cd Demofiles
+  208  cd..
+  209  cd Demofiles
+  210  cd..
+  211  cd../
+  212  exit
+  213  sl
+  214  clear
+  215  pkg list -all
+  216  pkg -all
+  217  list -all
+  218  alist
+  219  pkg install alist
+  220  ls
+  221  login google
+  222  history
+  223  pkg install python
+  224  cd 230015331-ISIDRO
+  225  LS
+  226  exit
+  227  cd 230015331-ISIDRO
+  228  clear
+  229  ls
+  230  mkdir linux_practice
+  231  ls
+  232  cd linux_practice
+  233  touch notes.txt
+  234  ls
+  235  exit
+  236  cd linux_practice
+  237  ls
+  238  cat notes.txt
+  239  nano notes.txt
+  240  echo "This is a practical exam." >> notes.txt
+  241  nano notes.txt
+  242  grep notes.txt
+  243  cat notes.txt
+  244  head notes.txt
+  245  grep 1 notes.txt
+  246  grep?
+  247  grep
+  248  grep --help
+  249  grep -i "Hello Linux!"
+  250  grep -i 'Hello Linux!'
+  251  grep -i 'Hello Linux!' notes.txt
+  252  grep -i notes.txt
+  253  head notes.txt
+  254  tail notes.txt
+  255  mkdir/s subdir
+  256  ls
+  257  mkdir subdir
+  258  ls
+  259  dir/s
+  260  ls
+  261  mv notes.txt >> subdir
+  262  mv --help
+  263  mv notes.txt subdir
+  264  cd subdir
+  265  ls
+  266  cd.
+  267  ls
+  268  cd../
+  269  cd 230015331-ISIDRO
+  270  exit
+  271  cd 230015331-ISIDRO
+  272  LS
+  273  ls
+  274  cd linux_practice
+  275  ls
+  276  mv subdir practice_subdir
+  277  ls
+  278  cp notes.txt linux_practice
+  279  cd practice_subdir
+  280  cp notes.txt linux_practice
+  281  ls
+  282  cd linux_practice
+  283  rm -r linux_practice
+  284  ls
+  285  cd
+  286  cd 230015331-ISIDRO
+  287  ls
+  288  linux_practice
+  289  cd linux_practice
+  290  ls
+  291  date
+  292  cd
+  293  date
+  294  cal
+  295  du
+  296  pkg list-installed
+  297  pkg search ssh
+  298  ssh
+  299  php
+  300  mysql
+  301  apache2
+  302  apachectl
+  303  apache
+  304  python3
+  305  apache
+  306  apache2
+  307  apachectl
+  308  date
+  309  cal
+  310  du
+  311  ssh
+  312  php
+  313  MySql
+  314  ssh --v
+  315  ssh --version
+  316  php --v
+  317  mysql --v
+  318  apache --v
+  319  apache2 --v
+  320  history
+  321  python3 --v
+  322  python
+  323  jdk --v
+  324  openjdk --v
+  325  jdk --v
+  326  java --v
+  327  java
+  328  openssh --v
+  329  ssh --v
+  330  mysql --v
+  331  apachectl
+  332  openjdk
+  333  open-jdk --v
+  334  top
+  335  date
+  336  top
+  337  java --version
+  338  cd 230015331-ISIDRO
+  339  ls
+  340  cd linux_practice
+  341  ls >> notes.txt
+  342  cat notes.txt
+  343  ls
+  344  cd practice_subdir
+  345  ls
+  346  nano notes.txt
+  347  head -n 1 notes.txt
+  348  tail -n 1 notes.txt
+  349  cp practice_subdir/notes.txt .
+  350  cd
+  351  date
+  352  uptime
+  353  df -h
+  354  du
+  355  cleat
+  356  clear
+  357  history
+  358  sl
+  359  cmatrix
+  360  sl
+  361  cd 230015331-ISIDRO
+  362  ls
+  363  git branch finalexam
+  364  git add notes.txt
+  365  ls
+  366  cd linux_practice
+  367  ls
+  368  practice_subdir
+  369  cd practice_subdir
+  370  ls
+  371* git add notes.txt7
+  372  git commit -m "Added notes.txt with Linux command practices"
+  373  git push -u origin finalexam
+  374  git log
+  375  git fetch
+  376  git branch finalexam
+  377  git branch
+  378  git checkout finalexam
+  379  git log
+  380  ls
+  381  cd
+  382  cd 230015331-ISIDRO
+  383  ls
+  384  cd linux_practice
+  385  ls
+  386  cat notes.txt
+  387  cd notes.txt
+  388  nano notes.txy
+  389  git checkout main
+  390  git log
+  391  git checkout finalexa
+  392  git checkout finalexam
+  393  git log
+  394  git fetch mai 
+  395  git fetch main
+  396  git fetch 230015331-ISIDRO
+  397  git checkout finalexam
+  398  ls
+  399  cat notes.txt
+  400  nano notes.tx
+  401  nano notes.txt
+  402  cd
+  403  gh repo clone https://github.com/smisidro/230015331-ISIDRO
+  404  gh auth login
+  405  cls
+  406  ls
+  407  cd 230015331-ISIDRO
+  408  LS
+  409  ls
+  410  git checkout -b finalexam
+  411  git checkout finalexam
+  412  history > exam_log.txt
